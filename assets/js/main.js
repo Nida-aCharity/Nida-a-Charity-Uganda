@@ -1,5 +1,5 @@
 /*
-	This website is managed by Mwima Amiwar, for verification on other service providers like 
+	This website is managed by Mwima Aniwar, for verification on other service providers like 
 payoneer, and other platforms that may require verification. contact: nadaacharity@gmail.com
 */
 
